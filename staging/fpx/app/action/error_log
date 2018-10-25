@@ -1,0 +1,5 @@
+[31-Jan-2017 08:50:03 Asia/Kolkata] PHP Notice:  Undefined index: $rec_type in /home/qykpay11/public_html/staging/fpx/app/action/save_order.php on line 62
+[31-Jan-2017 08:50:29 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/qykpay11/public_html/staging/fpx/app/action/save_order.php on line 28
+[31-Jan-2017 08:50:29 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qykpay11/public_html/staging/fpx/app/action/save_order.php:4) in /home/qykpay11/public_html/staging/fpx/app/action/save_order.php on line 53
+[31-Jan-2017 08:51:16 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qykpay11/public_html/staging/fpx/app/action/save_order.php:4) in /home/qykpay11/public_html/staging/fpx/app/action/save_order.php on line 53
+[31-Jan-2017 08:51:50 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qykpay11/public_html/staging/fpx/app/action/save_order.php:7) in /home/qykpay11/public_html/staging/fpx/app/action/save_order.php on line 47

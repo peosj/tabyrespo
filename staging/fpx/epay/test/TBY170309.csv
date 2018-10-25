@@ -1,0 +1,3 @@
+Record Type,Merchant ID,Operator ID,Terminal ID,Ret Trans Ref,Product Code,MSISDN,Amount,TransType,Trans Reference,Trans Date Time,Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5
+D,201993,IBS,10000177,100610Test111,MERCHANTST,1,1000,PIN,M11637504,2.01703E+13,Custom1,Custom2,Custom3,Custom4,Custom5
+D,201993,IBS,10000177,100610Test114,CELCOMAIRTIMEST,1,5000,PIN,0505050505051771,2.01703E+13,Custom1,Custom2,Custom3,Custom4,Custom5

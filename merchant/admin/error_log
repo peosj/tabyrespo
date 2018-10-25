@@ -1,0 +1,303 @@
+[05-Sep-2016 15:49:14 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/config/config.php on line 6
+[05-Sep-2016 15:49:14 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user 'tutorj4p'@'localhost' (using password: NO) in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/pending-cheques.php on line 82
+[05-Sep-2016 15:49:14 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/pending-cheques.php on line 82
+[05-Sep-2016 15:49:14 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/pending-cheques.php on line 83
+[05-Sep-2016 15:49:18 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/config/config.php on line 6
+[05-Sep-2016 15:49:18 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user 'tutorj4p'@'localhost' (using password: NO) in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/returned-cheques.php on line 83
+[05-Sep-2016 15:49:18 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/returned-cheques.php on line 83
+[05-Sep-2016 15:49:18 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/returned-cheques.php on line 84
+[05-Sep-2016 15:49:47 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/config/config.php on line 6
+[05-Sep-2016 15:49:47 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user 'tutorj4p'@'localhost' (using password: NO) in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/pending-cheques.php on line 82
+[05-Sep-2016 15:49:47 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/pending-cheques.php on line 82
+[05-Sep-2016 15:49:47 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/pending-cheques.php on line 83
+[05-Sep-2016 15:53:02 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 183
+[05-Sep-2016 15:55:01 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 183
+[05-Sep-2016 15:55:21 Asia/Kolkata] PHP Notice:  Undefined index: bank_address in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 170
+[05-Sep-2016 15:55:21 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 183
+[05-Sep-2016 16:09:10 Asia/Kolkata] PHP Notice:  Undefined index: bank_address in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 170
+[05-Sep-2016 16:09:10 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 183
+[05-Sep-2016 11:38:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/returned-cheques.php on line 140
+[05-Sep-2016 17:37:20 Asia/Kolkata] PHP Notice:  Undefined index: bank_address in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 170
+[05-Sep-2016 17:37:20 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 183
+[05-Sep-2016 18:12:23 Asia/Kolkata] PHP Notice:  Undefined index: bank_address in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 170
+[05-Sep-2016 18:12:23 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 183
+[05-Sep-2016 18:13:06 Asia/Kolkata] PHP Notice:  Undefined index: bank_address in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 170
+[05-Sep-2016 18:13:06 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 183
+[05-Sep-2016 18:17:22 Asia/Kolkata] PHP Notice:  Undefined index: bank_address in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 170
+[05-Sep-2016 18:17:22 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 183
+[05-Sep-2016 18:19:00 Asia/Kolkata] PHP Notice:  Undefined index: bank_address in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 170
+[05-Sep-2016 18:19:00 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 183
+[05-Sep-2016 18:44:13 Asia/Kolkata] PHP Notice:  Undefined index: bank_address in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 170
+[05-Sep-2016 18:44:13 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 183
+[05-Sep-2016 18:47:42 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 161
+[05-Sep-2016 18:50:06 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 161
+[05-Sep-2016 18:50:51 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 161
+[05-Sep-2016 18:51:14 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 161
+[05-Sep-2016 18:52:11 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 161
+[05-Sep-2016 18:53:33 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 161
+[05-Sep-2016 18:53:43 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 161
+[05-Sep-2016 18:54:04 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 161
+[05-Sep-2016 18:54:51 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 161
+[05-Sep-2016 18:59:08 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 161
+[05-Sep-2016 19:07:56 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 161
+[05-Sep-2016 19:09:58 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 162
+[05-Sep-2016 19:10:06 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 162
+[05-Sep-2016 19:11:05 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 162
+[05-Sep-2016 19:14:02 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 224
+[05-Sep-2016 19:14:02 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 236
+[05-Sep-2016 19:14:02 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 12
+[05-Sep-2016 19:14:02 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 27
+[05-Sep-2016 19:14:02 Asia/Kolkata] PHP Notice:  Undefined index: logrights in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 30
+[05-Sep-2016 19:14:02 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 50
+[05-Sep-2016 19:14:02 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 59
+[05-Sep-2016 19:14:02 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 63
+[05-Sep-2016 19:14:02 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 68
+[05-Sep-2016 19:14:02 Asia/Kolkata] PHP Notice:  Undefined index: logrights in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 69
+[05-Sep-2016 23:43:57 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 162
+[05-Sep-2016 23:44:25 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 162
+[06-Sep-2016 11:15:29 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 224
+[06-Sep-2016 11:15:29 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 236
+[06-Sep-2016 11:15:29 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 12
+[06-Sep-2016 11:15:29 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 27
+[06-Sep-2016 11:15:29 Asia/Kolkata] PHP Notice:  Undefined index: logrights in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 30
+[06-Sep-2016 11:15:29 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 50
+[06-Sep-2016 11:15:29 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 59
+[06-Sep-2016 11:15:29 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 63
+[06-Sep-2016 11:15:29 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 68
+[06-Sep-2016 11:15:29 Asia/Kolkata] PHP Notice:  Undefined index: logrights in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/profile.php on line 69
+[06-Sep-2016 11:18:44 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 224
+[06-Sep-2016 11:18:44 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 236
+[06-Sep-2016 11:18:44 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 12
+[06-Sep-2016 11:18:44 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 27
+[06-Sep-2016 11:18:44 Asia/Kolkata] PHP Notice:  Undefined index: logrights in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 30
+[06-Sep-2016 14:57:38 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 207
+[06-Sep-2016 14:57:55 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 207
+[06-Sep-2016 15:01:26 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 207
+[06-Sep-2016 15:01:45 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 207
+[06-Sep-2016 15:05:09 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 207
+[06-Sep-2016 15:05:26 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 207
+[06-Sep-2016 15:05:43 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 207
+[06-Sep-2016 15:08:33 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 207
+[06-Sep-2016 15:08:43 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 207
+[06-Sep-2016 15:09:02 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 207
+[06-Sep-2016 15:09:12 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 207
+[06-Sep-2016 15:11:41 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 207
+[06-Sep-2016 15:14:56 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 207
+[06-Sep-2016 15:16:29 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 207
+[07-Sep-2016 18:36:34 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 91
+[07-Sep-2016 18:37:01 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 91
+[07-Sep-2016 18:39:21 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 91
+[07-Sep-2016 18:39:21 Asia/Kolkata] PHP Notice:  Undefined index: Pendig in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 97
+[07-Sep-2016 18:39:21 Asia/Kolkata] PHP Notice:  Undefined index: Declined in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 106
+[07-Sep-2016 18:39:21 Asia/Kolkata] PHP Notice:  Undefined index: Processed in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 115
+[07-Sep-2016 18:40:27 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 91
+[07-Sep-2016 18:40:27 Asia/Kolkata] PHP Notice:  Undefined index: Pendig in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 97
+[07-Sep-2016 18:40:27 Asia/Kolkata] PHP Notice:  Undefined index: Declined in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 106
+[07-Sep-2016 18:40:27 Asia/Kolkata] PHP Notice:  Undefined index: Processed in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 115
+[07-Sep-2016 18:41:21 Asia/Kolkata] PHP Notice:  Undefined index: Pendig in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 97
+[07-Sep-2016 18:41:21 Asia/Kolkata] PHP Notice:  Undefined index: Declined in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 106
+[07-Sep-2016 18:41:21 Asia/Kolkata] PHP Notice:  Undefined index: Processed in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 115
+[07-Sep-2016 18:44:28 Asia/Kolkata] PHP Notice:  Undefined variable: query_row in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 101
+[07-Sep-2016 18:52:30 Asia/Kolkata] PHP Fatal error:  Call to undefined function mysql_auery() in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 101
+[17-Sep-2016 17:13:22 Asia/Kolkata] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/config/config.php on line 18
+[17-Sep-2016 17:13:32 Asia/Kolkata] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/config/config.php on line 18
+[19-Sep-2016 08:27:08 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_foa5q87mvvg60ds7fth4tsd9d3, O_RDWR) failed: Disk quota exceeded (122) in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 2
+[19-Sep-2016 13:57:13 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 220
+[19-Sep-2016 13:57:13 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 232
+[19-Sep-2016 13:57:13 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 12
+[19-Sep-2016 13:57:13 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 27
+[19-Sep-2016 17:37:06 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 220
+[19-Sep-2016 17:37:07 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 232
+[19-Sep-2016 17:37:07 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 12
+[19-Sep-2016 17:37:07 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 27
+[19-Sep-2016 12:27:19 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_j8sulscqo6u8gr61sctuabgfc2, O_RDWR) failed: Disk quota exceeded (122) in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque.php on line 3
+[19-Sep-2016 17:57:19 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 220
+[19-Sep-2016 17:57:19 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 232
+[19-Sep-2016 17:57:19 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 12
+[19-Sep-2016 17:57:19 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 27
+[19-Sep-2016 12:27:29 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_j8sulscqo6u8gr61sctuabgfc2, O_RDWR) failed: Disk quota exceeded (122) in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 2
+[19-Sep-2016 17:57:34 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 220
+[19-Sep-2016 17:57:34 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 232
+[19-Sep-2016 17:57:34 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 12
+[19-Sep-2016 17:57:34 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 27
+[19-Sep-2016 12:27:37 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_j8sulscqo6u8gr61sctuabgfc2, O_RDWR) failed: Disk quota exceeded (122) in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque.php on line 3
+[19-Sep-2016 17:57:37 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 220
+[19-Sep-2016 17:57:37 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 232
+[19-Sep-2016 17:57:37 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 12
+[19-Sep-2016 17:57:37 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 27
+[19-Sep-2016 12:27:40 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_j8sulscqo6u8gr61sctuabgfc2, O_RDWR) failed: Disk quota exceeded (122) in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque-detail.php on line 2
+[19-Sep-2016 17:57:44 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 220
+[19-Sep-2016 17:57:44 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 232
+[19-Sep-2016 17:57:44 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 12
+[19-Sep-2016 17:57:44 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 27
+[19-Sep-2016 12:27:46 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_j8sulscqo6u8gr61sctuabgfc2, O_RDWR) failed: Disk quota exceeded (122) in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque.php on line 3
+[19-Sep-2016 17:57:46 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 220
+[19-Sep-2016 17:57:46 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 232
+[19-Sep-2016 17:57:46 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 12
+[19-Sep-2016 17:57:46 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 27
+[19-Sep-2016 17:58:33 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 220
+[19-Sep-2016 17:58:33 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 232
+[19-Sep-2016 17:58:33 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 12
+[19-Sep-2016 17:58:33 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 27
+[19-Sep-2016 12:28:38 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_j8sulscqo6u8gr61sctuabgfc2, O_RDWR) failed: Disk quota exceeded (122) in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/view-cheque.php on line 3
+[19-Sep-2016 17:58:38 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 220
+[19-Sep-2016 17:58:38 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 232
+[19-Sep-2016 17:58:38 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 12
+[19-Sep-2016 17:58:38 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 27
+[20-Sep-2016 15:11:52 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 35
+[20-Sep-2016 15:11:52 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 90
+[20-Sep-2016 15:12:39 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 35
+[20-Sep-2016 15:12:39 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 90
+[20-Sep-2016 16:03:10 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:03:10 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:04:09 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:04:09 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:04:54 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:04:54 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:05:43 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:05:43 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:06:34 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:06:34 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:23:00 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:23:00 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:37:25 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:37:25 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:38:16 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:38:16 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:39:58 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:39:58 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:40:59 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:40:59 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:41:55 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:41:55 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:42:16 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:42:16 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:45:32 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:45:32 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:48:12 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:48:12 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:49:31 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:49:31 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:50:20 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:50:20 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:51:25 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:51:25 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:56:37 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:56:37 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:59:43 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:59:43 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 16:59:57 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 16:59:57 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 17:01:40 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 17:01:40 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 17:04:27 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 17:04:27 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 17:04:35 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 17:04:35 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 17:47:01 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 17:47:01 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 17:59:16 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 17:59:16 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 17:59:23 Asia/Kolkata] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/config/config.php on line 18
+[20-Sep-2016 17:59:23 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user 'tutorj4p'@'localhost' (using password: NO) in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/pending-amounts.php on line 125
+[20-Sep-2016 17:59:23 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/pending-amounts.php on line 125
+[20-Sep-2016 17:59:23 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/pending-amounts.php on line 127
+[20-Sep-2016 18:00:46 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:00:46 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:04:30 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:04:30 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:10:31 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:10:31 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:10:35 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:10:35 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:10:40 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:10:40 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:10:55 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:10:55 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:10:58 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:10:58 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:10:59 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:10:59 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:10:59 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:10:59 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:12:39 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:12:39 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:12:44 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:12:44 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:13:31 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:13:31 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:13:34 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:13:34 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:13:38 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:13:38 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:14:34 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:14:34 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:14:39 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:14:39 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:14:39 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:14:39 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:14:39 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:14:39 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:14:39 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:14:39 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:16:55 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:16:55 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:17:00 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:17:00 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:17:47 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:17:47 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:17:47 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:17:47 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:17:47 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:17:47 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:18:18 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:18:18 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:18:22 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:18:22 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:19:05 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:19:05 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:21:02 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:21:02 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:22:20 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:22:20 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:22:39 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:22:39 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:23:00 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:23:00 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:23:11 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:23:11 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 18:23:13 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 18:23:13 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 19:00:45 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 19:00:45 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 19:01:29 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 19:01:29 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 19:08:37 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 30
+[20-Sep-2016 19:08:37 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 85
+[20-Sep-2016 19:12:47 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 37
+[20-Sep-2016 19:12:47 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 92
+[20-Sep-2016 19:15:03 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 37
+[20-Sep-2016 19:15:03 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 92
+[20-Sep-2016 19:16:19 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 37
+[20-Sep-2016 19:16:19 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 92
+[20-Sep-2016 19:17:20 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 37
+[20-Sep-2016 19:17:20 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 92
+[20-Sep-2016 19:18:13 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 37
+[20-Sep-2016 19:18:13 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 92
+[20-Sep-2016 19:21:01 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 37
+[20-Sep-2016 19:21:01 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 92
+[21-Sep-2016 11:37:11 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 220
+[21-Sep-2016 11:37:11 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/header.php on line 232
+[21-Sep-2016 11:37:11 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 12
+[21-Sep-2016 11:37:11 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/blocks/left-sidebar.php on line 27
+[21-Sep-2016 11:37:11 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 37
+[21-Sep-2016 11:37:11 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 37
+[21-Sep-2016 11:37:11 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 72
+[21-Sep-2016 11:37:11 Asia/Kolkata] PHP Notice:  Undefined index: logid in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 76
+[21-Sep-2016 11:37:11 Asia/Kolkata] PHP Notice:  Undefined index: logname in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 92
+[21-Sep-2016 11:37:11 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 92
+[21-Sep-2016 15:03:16 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 37
+[21-Sep-2016 15:03:16 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 92
+[21-Sep-2016 15:06:02 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 37
+[21-Sep-2016 15:06:02 Asia/Kolkata] PHP Notice:  Undefined index: logname1 in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/admin-dashboard.php on line 92
+[21-Sep-2016 15:16:32 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/tutorj4p/public_html/hikesoftwares.com/demo/echeque/admin/withdrawal-request.php on line 63

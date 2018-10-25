@@ -1,0 +1,25 @@
+{
+  "name": "Reload Mobile Application",
+  "short_name": "Reload  Recharge App",
+  
+  "icons": [
+   {
+        "src": "/assets/images/touch/128x128.png",
+        "sizes": "128x128"
+      }, {
+        "src": "/assets/images/touch/152x152.png",
+        "sizes": "152x152"
+      }, {
+        "src": "/assets/images/touch/144x144.png",
+        "sizes": "144x144"
+      }, {
+        "src": "/assets/images/touch/192x192.png",
+        "sizes": "192x192"
+      }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+   "gcm_sender_id": "991172678454",
+  "//": "gcm_user_visible_only is only needed until Chrome 44 is in stable ",
+  "gcm_user_visible_only": true
+}

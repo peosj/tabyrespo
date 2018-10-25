@@ -1,0 +1,1 @@
+RewriteRule ^webhosting-([a-z_0-9-]+)/$ /view_webhosting.php?webhosting=$1 [L,QSA]

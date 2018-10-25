@@ -1,0 +1,159 @@
+.row {
+    margin: 0 auto; 
+    width: 1170px;
+    position: relative;
+}
+
+.one-col, .two-col, .three-col, .four-col, .five-col, .six-col, .seven-col, .eight-col, .nine-col, .ten-col, .eleven-col, .twelve-col {
+    clear: none;
+    display: inline;
+    float: left;
+    margin: 0 18px 0 0;
+    padding: 0;
+    position: relative;
+}
+
+.one-col {
+    width: 81px;
+}
+
+.two-col {
+    width: 180px;
+}
+
+.three-col {
+    width: 279px;
+}
+
+.four-col {
+    width: 378px;
+}
+
+.five-col {
+    width: 477px;
+}
+
+.six-col {
+    width: 576px;
+}
+
+.seven-col {
+    width: 675px;
+}
+
+.eight-col, .revWrap {
+    width: 774px;
+}
+
+.nine-col {
+    width: 873px;
+}
+
+.ten-col {
+    width: 972px;
+}
+
+.eleven-col {
+    width: 1071px;
+}
+
+.twelve-col {
+    width: 1170px;
+    margin-right: 0;
+}
+
+.prefix-one {
+    margin-left: 99px;
+}
+
+.prefix-two {
+    margin-left: 198px;
+}
+
+.prefix-three {
+    margin-left: 297px;
+}
+
+.prefix-four {
+    margin-left: 396px;
+}
+
+.prefix-five {
+    margin-left: 495px;
+}
+
+.prefix-six {
+    margin-left: 594px;
+}
+
+.prefix-seven {
+    margin-left: 693px;
+}
+
+.prefix-eight {
+    margin-left: 792px;
+}
+
+.prefix-nine {
+    margin-left: 891px;
+}
+
+.prefix-ten {
+    margin-left: 990px;
+}
+
+.prefix-eleven {
+    margin-left: 1089px;
+}
+
+.suffix-one {
+    margin-right: 117px;
+}
+
+.suffix-two {
+    margin-right: 216px;
+}
+
+.suffix-three {
+    margin-right: 315px;
+}
+
+.suffix-four {
+    margin-right: 414px;
+}
+
+.suffix-five {
+    margin-right: 513px;
+}
+
+.suffix-six {
+    margin-right: 612px;
+}
+
+.suffix-seven {
+    margin-right: 711px;
+}
+
+.suffix-eight {
+    margin-right: 810px;
+}
+
+.suffix-nine {
+    margin-right: 909px;
+}
+
+.suffix-ten {
+    margin-right: 1008px;
+}
+
+.suffix-eleven {
+    margin-right: 1107px;
+}
+
+.clear { /* Useful generic clearing class. */
+    clear: both;
+}
+
+.last-col {
+    margin-right: 0;
+}
