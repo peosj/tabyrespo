@@ -68,6 +68,6 @@ else
         $response['login_status'] = "Login Failed 2";
         echo json_encode($response);
        //header("location:../../recharge-login.php?msg=error"); 
-       //exit;
+       //exit; 
     }
 ?>
